@@ -1,1 +1,1 @@
-web: lein run -m cljheroku.core
+web: lein run -m helloworld.core
